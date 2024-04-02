@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "telOzSxuS2u+Y9oJT38FhtN+C85en6gSEG3ga1xazk4=",
+  "Source": "AdminUser_WebApi",
+  "BasePath": "_content/AdminUser_WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
